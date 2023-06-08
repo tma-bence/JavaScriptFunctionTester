@@ -1,10 +1,14 @@
-## Telepítés
+## Description
+
+This React application makes it possible to test your JavaScript functions.
+
+## Install
 
 ```bash
 npm install
 ```
 
-## Futtatás
+## Run/Start
 
 ```bash
 npm run dev
